@@ -3,7 +3,7 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  Hi, I'm Jhony Alejandro Hernandez Duin, a passionate self-taught Full Stack software developer and a freelance software engineer from Venezuela. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+  I'm Jhony Alejandro Hernandez Duin, Software Engineer from Venezuela. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and global inpact. I take great care in the experience, architecture, and code quality of the things I build.
 
 💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://www.rust-lang.org/" target="_blank"><u>Rust</u></a>.\
