@@ -1,18 +1,18 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Jhony</b>
-<br>
+</br>
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Jhony Alejandro Hernandez Duin, Software Engineer from Venezuela, living in Panamá. 
+  I'm Jhony Alejandro Hernandez Duin, Software Engineer from Venezuela, living in Panamá.</br>
   My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and global inpact. I take great care in the experience, architecture, and code quality of the things I build.
 
-💡 &nbsp;I like to explore new trends and learn new technologies.\
+  💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#764ABC" href="https://www.rust-lang.org/" target="_blank"><u>Rust</u></a>.\
   ✍🏼 &nbsp;I've recently started writing some articles on <a href="https://alejandroduin.com/" target="_blank"><u>my brand new blog</u></a>.\
   🚧 &nbsp;I'm currently working on two new secret projects after <a href="" target="_blank"><u>xxx</u></a> and <a href="" target="_blank"><u>yyy</u></a> ... 👀.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
-<br>
+</br>
 
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
@@ -39,7 +39,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
-<br>
+</br>
 
 ## 🌎 &nbsp;Where to find me ##
 <p>
